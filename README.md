@@ -9,7 +9,7 @@ The planner application can be used to schedule out your day. Each time slot has
 your event for that hour. Clicking the save button saves your event locally. 
 The current date and time is in place, and each entry can be color coded based on the current time of day. 
 
-https://lisaridner.github.io/Daily-Planner-LR/ 
+http://127.0.0.1:5500/index.html 
 
 
 
