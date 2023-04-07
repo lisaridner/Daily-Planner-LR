@@ -1,8 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-![Screenshot (14)](https://user-images.githubusercontent.com/125208782/230655379-9d1c1027-eaa9-4f6e-914e-f31b29c421c0.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/125208782/230655508-351068b6-242e-4d2e-89da-a3c1ab15e86f.png)
 
+![Screenshot (18)](https://user-images.githubusercontent.com/125208782/230656294-cfb140db-5588-4127-a6d3-6ffa844aa5d9.png)
 
 
 ## Your Task
